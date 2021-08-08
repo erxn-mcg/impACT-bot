@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+            h1 {
+                text-align: center;
+                font-size: 30px;
+                margin-top: 20px;
+                margin-bottom: 50px;
+                color: #8edf9b
+            }
+
+            .column {
+                width: 21%;
+                margin-right: 6%;
+                margin-left: 6%;
+                text-align: center;
+                float: left;
+                height: 200px;
+                background-color: #8edf9b;
+                border-radius: 30px;
+            }
+
+            h2 {
+                color: white;
+                padding: 10px;
+                font-size: 20px;
+            }
+
+            p {
+                color: #2a6e36;
+            }
+        </style>
+    </head>
+    <body>
+        <h1>impACT Bot Commands</h1>
+        <div class="column">
+            <h2>Fabrics</h2>
+            <p>denim</p>
+            <p>nylon</p>
+            <p>polyester</p>
+            <p>wool</p>
+            <p>leather</p>
+            <p>viscose</p>
+        </div>
+        <div class="column">
+            <h2>Appliances</h2>
+            <p>washing machine</p>
+            <p>dryer</p>
+            <p>fridge</p>
+            <p>toaster</p>
+            <p>kettle</p>
+            <p>microwave</p>
+        </div>
+        <div class="column">
+            <h2>Food</h2>
+            <p>bananas</p>
+            <p>apples</p>
+            <p>red meat</p>
+            <p>white meat</p>
+            <p>fish</p>
+            <p>vegetables</p>
+        </div>
+    </body>
+</html>
